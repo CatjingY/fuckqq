@@ -1,1 +1,0 @@
-﻿document.writeln("<script type=\'text/javascript\' src=\'https://js.users.51.la/21135227.js\'></script>");
